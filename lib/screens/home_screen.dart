@@ -108,7 +108,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     height: 24,
                   ),
                   const Text(
-                    'What would you\nlike to watch?',
+                    'Flutter flix',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 28,
